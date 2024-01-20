@@ -1,7 +1,8 @@
 # Fyle-web-development-challenge
 # GitHub User Details App
 
-![App Screenshot](screenshot.png)
+## Screenshots
+![Screenshot 2024-01-21 012137](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/5dac74eb-d618-449d-8cb2-72bf964d7836)
 
 ## Description
 
