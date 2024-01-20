@@ -7,6 +7,9 @@
 ![Screenshot 2024-01-21 012156](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/2a605727-e4a4-4d15-b128-4032c9347ad0)
 ![image_2024-01-21_012817734](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/8f73a7ab-90a8-464e-ae37-2b3a24c5f59a)
 
+## Hosted Link
+[click here to go to hosted site](https://fylechallengegithubuserdetailrashmeet.netlify.app)
+
 ## Description
 
 The GitHub User Details App is a web application that allows users to retrieve and display information about a GitHub user, including their repositories. The app uses the GitHub API to fetch user data and repository details.
