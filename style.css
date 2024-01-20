@@ -1,0 +1,202 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 100vh; */
+}
+
+.container {
+  width: 80%;
+  max-width: 800px;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.input-container label,
+.input-container input {
+  flex: 1 1 100%;
+  margin-bottom: 10px;
+}
+
+.input-container button {
+  flex: 0 0 auto;
+  margin-left: auto;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.input-container button:hover {
+  background-color: #0056b3;
+}
+
+.result-container {
+  margin-top: 20px;
+}
+
+.user-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.user-card img {
+  border-radius: 50%;
+  margin: 0 auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  height: 300px;
+}
+
+.repo-result-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.repo {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.repo:hover {
+  transform: translateY(-5px);
+}
+
+.repo h3 {
+  margin-bottom: 10px;
+}
+
+.repo-per-page-container {
+  margin-top: 20px;
+}
+
+.pagination-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination-container button,
+.pagination-container input {
+  margin: 0 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  transition: background-color 0.3s ease;
+}
+
+.pagination-container input {
+  width: 40px;
+  text-align: center;
+}
+
+.pagination-container button.active {
+  background-color: #0056b3;
+}
+
+.pagination-container button.go {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.pagination-container button.go:hover {
+  background-color: #0056b3;
+}
+
+/* Add some additional styling for a more modern look */
+body {
+  color: #333;
+}
+
+h2 {
+  color: #007bff;
+}
+
+h3 {
+  color: #333;
+}
+
+.repo-detail {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .input-container label,
+  .input-container input,
+  .input-container button {
+      flex: 1 1 100%;
+  }
+
+  .repo-result-container {
+      grid-template-columns: 1fr;
+  }
+}
+
+#searchRepoBtn{
+  margin-left: 425px;
+}
+
+.user-details-container {
+  margin-top: 20px;
+}
+
+.user-details {
+  text-align: center; /* Center the user details */
+}
+
+.user-card img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.user-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-card img {
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+  height: 200px;
+}
+
+.user-details-container {
+  text-align: center;
+}
