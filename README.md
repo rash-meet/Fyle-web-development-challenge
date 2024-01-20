@@ -2,9 +2,10 @@
 # GitHub User Details App
 
 ## Screenshots
+![Screenshot 2024-01-21 012218](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/818cb1d1-166a-4ba1-9336-350c1ae5b34d)
 ![Screenshot 2024-01-21 012137](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/5dac74eb-d618-449d-8cb2-72bf964d7836)
 ![Screenshot 2024-01-21 012156](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/2a605727-e4a4-4d15-b128-4032c9347ad0)
-![Screenshot 2024-01-21 012218](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/818cb1d1-166a-4ba1-9336-350c1ae5b34d)
+![image_2024-01-21_012817734](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/8f73a7ab-90a8-464e-ae37-2b3a24c5f59a)
 
 ## Description
 
