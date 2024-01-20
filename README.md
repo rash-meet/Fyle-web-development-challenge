@@ -8,7 +8,7 @@
 ![image_2024-01-21_012817734](https://github.com/rash-meet/Fyle-web-development-challenge/assets/113365662/8f73a7ab-90a8-464e-ae37-2b3a24c5f59a)
 
 ## Hosted Link
-[click here to go to hosted site](https://fylechallengegithubuserdetailrashmeet.netlify.app)
+[click here to visit hosted site](https://fylechallengegithubuserdetailrashmeet.netlify.app)
 
 ## Description
 
